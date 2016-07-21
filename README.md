@@ -1,2 +1,2 @@
 # contestandcampaign
-Un luogo dove progettare campagne di comunicazione, petizioni, contest
+Un luogo dove progettare contest, campagne di comunicazione, petizioni
